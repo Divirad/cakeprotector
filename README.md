@@ -1,3 +1,7 @@
+# SYSTEM REQUIREMENTS
+Windows 7 or more
+.Net 
+
 # Instructions:
 If too many Gobls reach the cake you will lose the game.
 You have to defend it as long as possible.
